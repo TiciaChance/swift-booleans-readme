@@ -136,7 +136,9 @@ When it comes to "real world" programming boolean expressions are used to check 
 ````Swift
 var fileExists = false
 ````
-In our program, if ````fileExists```` is ````false````, we can show an alert to the user letting them know that ther eisn't a file and prompt them to look for another file.  If ````fileExists```` is ````true```` then we can continue on with our program and show the contents of the file to the user.
+In our program, if ````fileExists```` is ````false````, we can show an alert to the user letting them know that there isn't a file and prompt them to look for another file.  If ````fileExists```` is ````true```` then we can continue on with our program and show the contents of the file to the user.
  
 
 <a href='https://learn.co/lessons/Booleans' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-booleans-readme'>Booleans and Operators</a> on Learn.co and start learning to code for free.</p>
